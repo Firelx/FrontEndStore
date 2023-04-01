@@ -1,0 +1,11 @@
+/* Registrando custom propierties*/
+:root {
+    --primario: #7b2cbf;
+    --primarioOscuro: #240046;
+    --secundario: #ff9100;
+    --secundarioOscuro: #ff6d00;
+    --blanco: #fbfaff;
+    --negro: #02010a;
+
+    --fuentePrincipal: 'Staatliches', cursive;
+}
